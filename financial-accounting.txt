@@ -1,0 +1,678 @@
+FINANCIAL ACCOUNTING
+
+WHY FINANCIAL ACCOUNTING?
+
+
+It provides the "numbers" we normally hear about a company (revenues, profit, assets
+value, ...)
+
+
+It is a "fundamental" part of company evaluation, i.e. it contributes (together with
+"expectations") to determine:
+  the shares' price and market capitalization of a company in the day by day trading (financial 
+  analysis)
+  the target price in an M&A (financial due diligence)
+  the selling price of shares in an IPO (financial due diligence)
+  the credit stability (rating services)
+    
+
+AGENDA
+
+
+Annual Report: key accounting principles and main documents
+
+Analysis of Annual Report 
+  Profitability Ratios
+  Liquidity Ratios
+
+Summary and conclusions
+
+
+MAIN OBJECTIVES
+
+
+Financial Accounting identifies data and information a company must collect, organise
+and present to shareholders and stakeholders (banks and bondholders, customers and
+suppliers, public authorities) to accomplish normative duties
+
+Data and information are presented in an official document called Annual Report
+(Financial Statements), summarising
+  the monetary value of assets the company has under its availability in a given point in time 
+  (usually the end of the year)
+  and the economic
+  and financial transactions the company undertook in a given period of time (usually an year)
+
+"Not everything that can be counted counts and not everything that counts can be
+counted" (Albert Einstein)
+
+
+ACCOUNTING STANDARDS
+
+   Accounting Principles or Standards define
+
+     where to register (format of Financial Statements)
+
+     what to register (definition of assets/liabilities, revenues/costs, cash    inflows/outflows)
+
+     how to register (revision of the calculation of the monetary value of
+     accounting items).
+
+
+     ... any item or event with an economic and/or financial impact
+
+   
+
+ANNUAL REPORT: KEY DOCUMENTS
+
+
+IAS/IFRS define the structure of annual report as constituted by 5 compulsory
+documents:
+
+  -BALANCE SHEET
+    describing the monetary value of assets and related rights (equity and
+  liabilities) in a given point in time (usually, midnight of 31/12 of each year)
+
+  -STATEMENT OF INCOME (PROFIT AND LOSS ACCOUNT)
+    describing the economic value (revenues and costs) of physical and
+  financial transactions undertaken by the company in a given period (usually,
+  one year) 
+
+   -STATEMENT OF CHANGES IN SHAREHOLDERS' EQUITY
+     summarising the effects on shareholders' equity of physical and financial
+   transactions undertaken by the company in a given period (usually, one year)
+
+   -STATEMENT OF CASH FLOW
+     summarising the results (inflows and outflows) of the financial transactions
+   undertaken by the company in a given period (usually, one year)
+
+   -NOTES TO FINANCIAL STATEMENTS
+     describing the rules followed and hypothesis made in drafting of the annual
+   report, and all complementary data and information needed to allow the reader to
+   interpret the other documents
+    
+
+    MATCHING PRINCIPLE
+
+
+    The matching principle used in Annual Report is the accrual-basis accounting
+
+    Accrual-basis accounting records events based on economic activity rather than
+     financial activity. Under accrual accounting, revenue is recorded when it is earned     and realised, regardless of when actual payment is received. Similarly, expenses are    "matched" to revenues regardless of when they are actually paid.
+     and realised, regardless of when actual payment is received. Similarly, expenses are    "matched" to revenues regardless of when they are actually paid.
+
+    Accrual-basis accounting is opposed to cash-basis accounting under which revenues
+     are recognised when cash is received and expenses when cash is paid
+
+    Net profit is then a result of the "matching" between economic events (revenues and
+     costs)
+
+     
+
+   ANNUAL REPORT: KEY DOCUMENTS
+
+   Listed companies are also requested to provide:
+
+     the report of independent auditors, stating that the annual report gives a    true and fair view of the situation of the company
+
+     the report of supervisory board, stating that the decisions undertaken by     the company's management are compliant with the normative and
+     statutory requirements
+
+     a management report, providing the view of the management and also
+     additional comments to the results reported in the annual report
+
+
+   
+
+BALANCE SHEET
+
+Balance Sheet describes the monetary value of assets and related rights (equity and
+liabilities) in a given point in time (usually, midnight of 31/12 of each year)
+
+                         ASSETS            LIABILITIES
+                      (RESOURCES)           (RIGHTS)
+
+              Assets are identified by    Liabilities are defined as 
+              the presence of a direct or present obligations of an 
+              indirect contribution to    entity arising from past 
+              the financial flows (or     transactions or events, 
+              equivalents) that will      the settlement of which 
+              arrive to the companies.    may result in the transfer 
+              Ownership is not            or use of assets, 
+              essential in recognising    provision of services or 
+              assets                      other yielding of 
+                                          economic benefits in the 
+                                          future.
+
+
+IAS/IFRS do not identify a rigid framework ... and therefore each company may decide how to draft its Balance Sheet
+                   
+
+ASSETS
+   - NON-CURRENT ASSETS
+	   Property, plant and equipment 
+	   Investment property
+	   Goodwil
+	   Other intangible assets
+	   Equity investment
+	   Other non-current financial assets 
+	   Deferred tax
+   - CURRENT ASSETS (Assets held for collection,trading, sale, or consumption within the enterprise's normal operating cycle (12 months))
+	   Trade and other receivables 
+	   Inventories
+	   Ordered work in progress 
+	   Short-term financial assets 
+	   Cash and cash equivalents
+   - ASSETS CLASSIFIED AS HELD FOR SALE AND DISPOSAL GROUPS (The common feature of non current assets held for sale and disposal groups is that the carrying value is expected to be realised through a sale transaction rather than through continuing use. The non-current asset or disposal group is classified as held for sale when it is immediately available for sale in its present condition and the sale is highly probable.)
+
+LIABILITIES (RIGHTS)
+
+        -SHAREHOLDERS' EQUITY
+         Issued capital
+         Reserves
+         Net profit/loss for the financial year
+
+		-STAKEHOLDERS' RIGHTS
+			-NON-CURRENT LIABILITIES 
+			 Bonds
+			 Bank debts
+			 Other financial non-current liabilities 
+			 Provisions for liabilities and charges 
+			 Pensions and similar obligations 
+			 Deferred tax liabilities
+
+			-CURRENT LIABILITIES 
+			 Bonds
+			 Bank debts
+			 Trade and other payables
+			 Other financial non-current liabilities
+			 Current tax liabilities
+
+			 -LIABILITIES DIRECTLY ASSOCIATED WITH ASSETS CLASSIFIED AS HELD FOR SALE AND DISPOSAL GROUPS
+
+BALANCE SHEET: BRUNELLO CUCINELLI [TOTAL ASSETS]
+
+                      /In thousands of earns)                           NOTES     31 December   of which with  31 December   of which ilia 
+                                                                                        2020   related parties      2019   related parties
+                      NON-CURRENT ASSETS
+                      Goodwill                                               1         7.045                      7.045
+                      Right-of-use                                           2      470,197          5.193      433621           5.611
+                      Intan2ible assets                                      3       12,136                      11.463
+                      Property. plant and equipment                          4      150,254         17.487      142.,705       19.013
+                      investments in non-current financial assets            5         4.179                      2,814
+                      Non-current financial assets for leases                6          402                         676
+                      Oilier non-current financial assets                    7       11,039            32         8,767
+                      Deferred tax assets                                   26       35.365                      25.436
+                      TOTAL NON-CURRENT ASSETS                                      690,620                     632,527
+                      CURRENT ASSETS
+                      Inventories                                            8      208.347                     204.868
+                      'fade receivables                                      9       78.871            51        58.622
+                      Tax receivables                                       10         3.871                        978
+                      Other current receivables and assets                  11       20.065                      21.003
+                      Current financial assets for leases                    6          173                         315
+                      Other curreiit financial assets                       12            11                      9.130
+                      Cash and cash equivalents                             13       72,834                      68.932
+                      Current derivative financial assets                   11         4,935                        552.
+                      TOTAL CURRENT ASSETS                                          389,110                     364,400
+                      TOTAL ASSETS                                                 1,079,730                    996.927
+
+
+BALANCE SHEET: CUCINELLI [TOTAL LIABILITIES + EQUITY]
+
+                           (In thousands of arms)                        NOTES     31 December of which with  31 December of which with 
+                                                                                         2020  related parties     2019   related parties
+
+                           SHAREHOLDERS' EQUITY
+                           GROUP SHAREHOLDERS' EQUITY
+                           Share capital                                     15       13,600                    13,600
+                           Share premium reserve                             15       57,915                    57,915
+                           Other reserves                                    15      220.670                   173,581
+                           Net profit attributable to the Group              15      (33,216)                   52,553
+                           TOTAL GROUP SHAREHOLDERS' EQUITY                          258,969                   297,649
+
+                           MINORITY SHAREHOLDERS' EQUITY
+                           Capital and reserves attributable to non-controlling 
+                           interests                                         15          988                     1,160
+                           Net profit pertaining to non-controlling 		 15        1,147                       530
+						   interests
+                           TOTAL MINORITY SHAREHOLDERS' EQUITY							2,135                    1,690
+                           TOTAL SHAREHOLDERS' EQUITY                                 261,104                  299,339
+
+                           NON-CURRENT LLA.BILITIES
+
+                           Post-employment benefits                          16        3,108                     3,182                            
+
+                           Provisions for risks and charges                  17          937                     1,127
+                                                                                                                                                 
+                           Non-current bank debt                             18       60.133                    30.474
+
+                           Non-current financial liabilities for leases      19      436,956        5,115      388,816        5,502                      
+
+                           Other non-current liabilities                     20           60                       247
+                                                                                                                                                  
+                           Deferred tax liabilities                          26        6.402                     2.504
+
+                           Non-current financial derivative liabilities      14          217                       150                           
+
+                           TOTAL NON-CURRENT LIABILITIES                             507,813                   426,500
+                           CURRENT LIABILITIES                                                                                                      
+
+                           Trade payables                                    21       91.412          550       89.453                           
+
+                           Current bank debt                                 22      105.007                    71.987
+
+                           Current financial liabilities for leases          19       75,412          516       62,661                                     
+
+
+                           Current financial payables                        23          799                     5,329
+                                                                                                                                                  
+                           Tax payables                                      24        2,621                     3,960
+
+                           Current derivative financial liabilities          14          491                     3.871
+
+                           Other current liabilities                         25       35.071        2,552       33.827        2,567
+
+                           TOTAL CURRENT LIABILITIES                                 310,813                   271,088
+
+                           TOTAL LIABILITIES										 828,626				   697,588
+
+                           TOTAL SHAREHOLDERS' EQUITY AND 
+                           LIABILITIES                                              1,079,730                  996,927
+
+At the finish of each company's operating cycle (usually, midnight of 31/12 of each year), the value of the Total Assets has to be equal to the sum of Total Liabilities and Equity)              
+
+
+STATEMENT OF INCOME
+
+It describes the economic value (revenues and costs) of physical and financial
+transactions undertaken by the company in a given period (usually, one year)
+
+It is drafted accordingly to the accrual-basis accounting
+
+IAS allow to present Statement of Income (Profit and Loss Account) under two forms:
+  by nature, where costs are aggregated on the basis of their nature (raw materials, staff 	costs, depreciation and amortisation, ...)
+  by function, where costs are aggregated on the basis of the activity to which they are referred (costs of sales, selling costs, administrative costs, ...)
+
+
+STATEMENT OF INCOME (BY NATURE): CUCINELLI
+
+
+                     an thousands of euros)                                              Year ended 31 December
+                                                                   NOTES          2020   of which with     2019   of winch with 
+                                                                                        related parties           related parties
+                     Net revenues                                     27      544,013            7      607.761           5
+                     Other operating income                           27        2,772          40          826           43
+                     Revenue from sales and services                          546,785                   608,587
+                     Costs for raw materials and consumables          28      (53,725)        (56)     (72,279)          (3)
+                     Cost of services                                 29     (243,296)      (2,202)   (248,067)      (2,753)
+                     Payroll costs                                    30     (119,569)      (1,390)   (112.199)      (1,351)
+                     Other operating costs                            31       (8,902)                   (7,530)
+                     increases in fixed assets for internal costs     32        3,2.58                    24382
+                     Depreciation/amortization                        33     (104,284)                 (86,250)
+                     Value adjustments to assets and other provisions 34      (35,085)                   (1.268)
+                     Total operating costs                                   (561,603)                (525,211)
+           EBIT ->   Operating profit                                         (14,818)                   83,376
+                     Financial expense                                35      (46,956)                 (41.401)
+                     Financial income                                 36       27.992                    27,201
+                     Income before taxes                                      (33,782)                   69,176
+                     Income taxes                                     26        1,713                  (16.093)
+                     Result of the year                                       (32,069)                   53,083
+              E ->   Net profit of the Group                          15      (33,216)                   52,553
+                     Net profit of Minority Interests                 15        1.147                      530
+                     Basic earnings per share                         37     (0.48847)                 0.77284
+                     Diluted earnings per share                       37     (0.48847)                 0.77284
+
+At the finish of each company's operating cycle (usually, midnight of 31/12 of each year), the Earnings generated in the Income Statement converge as shareholders' rights in the Equity.
+
+STATEMENT OF CASH FLOW
+
+
+It summarises the results (inflows and outflows) of the financial transactions
+undertaken by the company in a given period (usually, one year)
+
+IAS/IFRS consider two options in presenting the Statement of cash flow:
+  direct method (preferred method), where cash inflows and outflows are classified by nature
+  indirect method, where cash inflows and outflows are initially derived by adjusting net profit 
+  for the effects of non-cash transactions (e.g., depreciations)
+
+
+Statement of cash flow classifies cash inflows and outflows in three category:
+  cash flow from operations, i.e., financial flows related to the main revenue-producing activities of the company
+
+  cash flow from investing activities, i.e., financial flows related to the acquisition and disposal of long-term assets and other non-financial investments
+
+  cash flow from financing activities, i.e., financial flows related to changes in the equity capital and debts of the company, as well as in financial investments    
+
+STATEMENT OF CASH FLOW: CUCINELLI [INDIRECT METHOD]
+
+                      (In thousands of euros)                                                   Year ended 31 December
+
+                                                                                             NOTES    2029    2019
+
+                      Cash flows from operating activities
+
+                      Net profit for the year                                                   15 (32,069)  53,083
+
+                      Adjustments to reconcile net profit to cash flow g-eneratedffused) by operating activities:
+
+                      Income taxes                                                                  (1,713)  16.093
+
+                      Depreciationlamortization                                                 33  104,284  86.250
+
+                      Allocations to provisions for employee benefits                                   82      95
+
+                      Allocations to provisions for risks and charges/allowance for obsolescence/allowance for bad 
+                      doubtful debts                                                                35,033    1,279
+
+                      Change in other non-current liabilities                                        (183) (11,900)
+
+                      (Gains)/losses on disposal of non-current assets                                  41    126
+
+                      Write-down of equity investments                                          35    583        -
+
+                      Other Components without cash movements under [FRS 16                           227        -
+
+                      Interest expense                                                          35   2,215    1,566
+
+                      Interest expense for lease liabilities                                    35  10,705   10,463
+
+                      Interest income                                                           36    (28)    (108)
+
+                      Lease interest income                                                     36    (17)    (22)
+
+                      Payments for employee termination indemnities                             16   (133)    (114)
+
+                      Payments from provisions for risks and charges                            17   (927)       -
+
+                      Net change in deferred tax assets and liabilities                             (6,897)  (2.031)
+
+                      Change m fair value of financial instruments                                  (4,070)   (855)
+
+                      Changes in operating assets and liabilities:
+
+                      Trade receivables                                                            (22,916)   2,57:)
+
+                      Inventories                                                                  (44,477)(40.360)
+
+                      Trade payables                                                                 9,392    9,611
+
+                      Interest expense paid                                                         (2,118)  (1,563)
+
+                      Interest paid on lease liabilities                                           (10,705)(10,463)
+
+                      Interest income received                                                          28    108
+
+                      Interest received on lease assets                                                 17      22
+
+                      Income tax paid                                                               (9,107)(16,401)
+
+                      Other current assets and liabilities                                           9,215   17,644
+
+                      Net cash flows generatecli(used) by operating activities (a)                  36,462  115,096
+
+                      Cash flows from investing activities
+
+                      Investments in property plant and equipment                               4  (39.754)(38.629)
+
+                      Investments in intangible assets (including key money)                        (7.434)(11.442)
+
+                      Investments in financial assets                                               (2.814)   (625)
+
+Δ Net Working Capital = -/+ Δ Receivables -/+ Δ Inventories +/- Δ payables
+
+STATEMENT OF CASH FLOW: CUCINELLI [INDIRECT METHOD]
+                (In thousands of euros)                                             Year ended 31 December
+                                                                                   NOTES    2020    2019
+                Investments in property                                                5  (1,432) (1,895)
+                Investments in/divestments of current financial assets                     9,120   (124)
+                Disposal of property, plant and equipment and key money                    1,254    708
+                Cash flows generated/(used) in investing activities (b)                  (41,060)(52,007)
+                Cash flows from financing activities
+                Drawdown of medium/long-tern loans                                        151,729 26,950
+                Repayment of medium/long-term loans                                      (36,456)(28,414)
+                Net change in short-tens financial liabilities                           (52,576) 29,396
+                Repayment of lease liabilities                                           (50,630)(53,272)
+                Receipts from financial lease assets                                        255     288
+                Dividends paid                                                            (1,076)(20,483)
+                Changes in shareholders' equity                                              22   (6,060)
+                Cash used in financing activities (c)                                     11,268 (51,595)
+                Total cash flows (d=a+b+c)                                                 6,670  11,494
+                Effect of exchange rates on cash and cash equivalents (e)                 (2,768)   832
+                Cash and cash equivalents at the beginning of the year (0             13  68,932  56,606
+                Cash and cash equivalents at the end of the year (g=d+e+t)            13  72,834  68,932
+
+ At the finish of each company's operating cycle (usually, midnight of 31/12 of each year), the overall Cash generated in the Cash Flow Statement converge as Cash and Cash Equivalentes in the total Assets.                                                         
+
+BALANCE SHEET: CUCINELLI [TOTAL ASSETS]
+
+                      /In thousands of earns)                               NOTES      31 December    of which nnth  31 December    of which ilia 
+                                                                                              2020    related parties       2019    related parties
+                      NON-CURRENT ASSETS
+                      Goodwill                                                   1          7.045                         7.045
+                      Right-of-use                                               2        470,197          5.193        433,621           5.611
+                      intan2ible assets                                          3         12.136                        11.463
+                      Property. plant and equipment                              4        150,254         17.437        142.,705        19.013
+                      investments in non-current financial assets                5          4.179                         2,814
+                      Non-current financial assets for leases                    6            402                           676
+                      Other non-current financial assets                         7         11,039             32          8,767
+                      Deferred tax assets                                       26         35.365                        25.436
+                      TOTAL NON-CURRENT ASSETS                                            690,620                       632,527
+                      CURRENT ASSETS
+                      Inventories                                                8        208.347                       204.868
+                      Trade receivables                                          9         78.871             51         58.622
+                      Tax receivables                                           10          3.871                           978
+                      Other current receivables and assets                      11         20.065                        21.003
+                      Current financial assets for leases                        6            173                           315
+                      Other current financial                                   12             11                         9.130
+                      Cash and cash equivalents                                 13         72.834                        68.932
+                      Current derivative financial assets                       I 1         4.93                              1
+                      TOTAL CURRENT ASSETS                                                389,110                       364,400
+                      TOTAL ASSETS                                                      1,079,730                       996.927                                              
+
+OBJECTIVE AND TOOLS
+
+
+The aim of the analysis of an Annual Report is to provide a quick and useful overview of
+the company's main results
+
+Ratio analysis, summarizing information particularly concerning the economic profit
+achieved and its main components (profitability analysis) and the status of liquidity
+and its "coherence" with existing present obligations (liquidity analysis)
+
+
+"Revenue is vanity, profit is sanity and cash is reality"  
+
+RATIO ANALYSIS
+
+
+The use of ratios instead of absolute numbers (i.e. the single item of annual report's
+documents) gives more information on the ability of a company of making profit
+and/or generating cash
+
+• Ratios allow
+  • to compare present with past company's performance (usually 2-3
+    years) and to define an historical trend for each ratio, further
+    investigating potential impacts of contingencies or non-ordinary
+    events related to the company's own activities
+  • to compare the performance of the company with that of other firms
+    (usually main competitors), further investigating potential impacts of
+    contingencies or non-ordinary events related to the industryhes where
+    the company operates
+
+    
+
+RATIO ANALYSIS
+
+
+Ratios are powerful tools in supporting analysis of annual reports, as they provide a quick
+measure of company's performance and they signal where further investigation is
+needed
+
+Ratios, however, have to be carefully managed:
+
+     in defining comparable firms, it should be taken into account also:
+          • accounting principles adopted (e.g., IAS/IFRS, US Gaap)
+          • evaluation criteria used for main items (e.g. cost model vs. fair value model for property, plant and 
+            equipment)
+
+     in calculating ratios involving balance sheet items, it is needed to define whether the 
+     calculation is made on:
+          • year-end value
+          • initial value
+          • average value
+
+                             
+
+PROFITABILITY ANALYSIS
+
+    The aim of profitability analysis is to evaluate the ability of the company in making
+    profit and to identify its main components
+
+    Profitability analysis can be done under three different perspectives:
+
+      shareholders' perspective, assuming net profit (i.e. the "reward" of shareholders) as main item of analysis
+
+      overall company's perspective, assuming operating profit (i.e. EBIT) as main item of analysis
+
+      stakeholders' perspective, analysing the effects of I (interest) and T (Taxes) on the final net profit (E)
+        
+
+SHAREHOLDERS' PERSPECTIVE
+
+
+Ratios commonly used under the shareholders' perspective are:
+
+
+                               
+  ROE (Return on Equity) (%) = Net Profit / Shareholders' Equity
+
+  It is among the most used and renown ratios.
+  It measures the "interest rate" on shareholders' equity, i.e. how much they earned on the investment 
+  they made in the company.
+  The higher is the ratio, the better managers are using the equity base for running the company
+
+                                        
+  Net Profit Margin (%) =    Net Profit / Revenues
+
+   It is also known as bottom line margin.
+   It measures the percentage of profit shareholders can retain from revenues (i.e. the starting 
+   point of Income Statement).
+   It is to remember, however, that in real companies positive contributions to profit can be 
+   referred also to:
+      • variations of fair value
+      • gains on sale of assets
+      • reversion of provisions
+      • financial incomes
+      • income from discontinued operations
+      • •••
+   It should not be taken as the only reference number for evaluating a company.
+            
+
+OVERALL COMPANY'S PERSPECTIVE
+
+   Ratios commonly used under the overall company's perspective are:
+
+   ROI or ROA (%) (Return on Investment or Return on Assets) =     Operating Profit (EBIT) / Total Assets 
+   
+   It measures the ability of managers to generate profit by using company's assets for 
+   continuing business operations. It is also used in managers' internal evaluation. The higher is 
+   the better.    
+
+                          
+  Operating Profit Margin (%) =     Operating Profit (EBIT) / Revenues 
+
+  Asset Turnover Ratio (abs.) =    Revenues / Total Assets
+                                
+
+  EBITDA Margin (%)(eventually using notes to financial statements) = (Operating Profit + Depreciation + Amortisation) / Revenues
+
+  They further defines the profit components related to continuing business operations, and particularly 
+  the impact of depreciation and amortisation of assets (EBITDA margin)
+  EBITDA margin is also used for better comparing companies operating in the same industry but with 
+  a different degree of vertical integration
+     
+
+STAKEHOLDERS' PERSPECTIVE
+
+	Ratios commonly used under the stakeholders' perspective are:
+	
+    Debt-to-Equity Ratio or Gearing (abs.) = Total Liabilities / Shareholders' Equity
+                        
+    Interest Rate (I R) (%) (eventually using notes to financial statements) = Interest Expenses / Total Liabilities
+           
+    They measure respectively:
+       • the commitment in the company's capital of suppliers, lenders, creditors and other non-equity 
+         investors versus the commitment of shareholders
+       • the relative weight of interest expenses (i.e., the cost of outstanding debt) on the total liabilities 
+         (the lower the ratio, the less the company is burdened by debt expense)
+
+
+                                 
+    Effective Tax Rate (T) (%) = Net Earnings / Pre-tax Profit       
+
+    It measure the effective weight of taxation on the company's profit    
+
+PROFITABILITY ANALYSIS FINANCIAL LEVERAGE - Financial Leverage
+
+    ROE = [ROI + Debt-to-Equity x (ROI - IR)] x T
+
+    The relation between ROI and ROE is mediated by the effect of debts
+
+    Increasing Debt-to-Equity Ratio, e.g., increasing bank debts or issuing new bonds,
+    amplifies (other things being equal) ROE over ROI
+
+    ... but be aware of the trap! ... increasing D-to-E Ratio also amplifies IR as it increases the amount of interest to be paid
+                                                            
+
+LIQUIDITY ANALYSIS
+
+• The aim of liquidity analysis is to evaluate the status of liquidity and its
+  "coherence" with existing present obligations, i.e. the ability of the
+  company to meet its financial obligations when claimed by owners of related
+  rights
+
+
+• Ratios are then used under two different perspectives:
+  —Assets-Liabilities perspective, analysing "liquidity" items in Balance Sheet
+  —Cash Flow perspective, analysing "liquidity" items in Cash Flow Statement   
+
+LIQUIDITY RATIOS: ASSETS-LIABILITIES PERSPECTIVE     
+
+	Ratios commonly used under the assets-liabilities perspective are:   
+                                
+        Current Ratio (abs.)  =      Current Assets / Current Liabilities        
+		
+		Quick Ratio (abs.) (also known as Acid Test Ratio) = (Current Assets - Inventories) / Current Liabilities
+                      
+	They measure to what extent company's current assets (in the quick ratio further refined by isolating 
+	only most liquid assets) are readily available to pay off its current liabilities.
+	The higher the ratios, the better ... unless they hidden the fact the company is not able to invest its money ...                     
+
+LIQUIDITY RATIOS: CASH FLOW PERSPECTIVE
+
+Ratios commonly used under the cash flow perspective are:
+
+  Cash Flow-to-Debt Ratio (abs.) =  Operating Cash Flow / Non-current Liabilities
+
+  Short-term Debt Cove rag e(a bs.) = Operating Cash Flow / Current Liabilities  
+
+  Capital Expenditure Coverage (abs.) = Operating Cash Flow / Capital Expenditure (CAPEX)
+         
+  They measure the ability of operating cash flow to meet company's financial obligations concerning 
+  liabilities and ongoing investments. The higher the ratios, the better
+    
+
+SUMMARY AND CONCLUSIONS
+
+
+"It is very easy for people approaching ratios for the first time to go through a series of
+reactions, initially seeing the calculation of the ratios as an end in itself and then later
+asking what use the ratios are for"
+
+
+Annual Report analysis sheds light on certain aspects of the company but at the very
+end is the analyst who has to provide his/her own interpretation
+
+
+Remembering that:
+  not all the ratios have the same relevance
+  ratios pose questions more than providing answers
